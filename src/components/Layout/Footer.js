@@ -13,16 +13,16 @@ const Footer = (props) => {
         </h4>
 
         <div className={classes.bottom}>
-          <a class="footer-link" href="https://twitter.com/">
+          <a className="footer-link" href="https://twitter.com/">
             Twitter
           </a>
-          <a class="footer-link" href="https://instagram.com/">
+          <a className="footer-link" href="https://instagram.com/">
             Instagram
           </a>
-          <a class=" btn" href="mailto:flameon@gmail.com">
+          <a className=" btn" href="mailto:flameon@gmail.com">
             CONTACT US
           </a>
-          <p class="copyright">© 2021 Harshitha B Nag</p>
+          <p className="copyright">© 2021 Harshitha B Nag</p>
         </div>
       </footer>
     </Fragment>
